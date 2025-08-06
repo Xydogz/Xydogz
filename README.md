@@ -15,8 +15,8 @@
 ```
 🧠 Nama         : Awan
 🧑‍💻 Aktivitas    : Membuat game Roblox, web Laravel, dan seni digital
-🌍 Lokasi       : Di atas awan, dekat GitHub 😎
-🧙 Julukan     : The Neon Dev Wizard
+🌍 Lokasi       : Jawa Timur
+🧙 Status       : Pelajar
 ```
 
 ---
@@ -25,7 +25,7 @@
 
 ### 💻 Bahasa Pemrograman:
 ```markdown
-C++        ▰▰▰▰▰▰▰▰▱▱  80%  
+C++        ▰▰▰▰▰▰▱▱▱▱  60%  
 Java       ▰▰▰▰▰▰▰▰▱▱  80%  
 Python     ▰▰▰▰▰▰▰▰▰▱  90%  
 JavaScript ▰▰▰▰▰▰▰▱▱▱  70%  
@@ -54,14 +54,14 @@ Lua        ▰▰▰▰▰▰▰▱▱▱  70%
 
 ## ✨ Projek Spesial
 > 🎮 **Grow a Soul** - game Roblox bertema pulau mengambang dan pengembangan jiwa  
-> 🧙‍♂️ **Theme** - tema dark + neon untuk profil dan portofolio  
-> 🌐 **Laravel Store** - Web apps bergaya modern untuk UMKM dan bisnis lokal
+> 🧙‍♂️ **Mount Tanggul** - gane Roblox bertema mendaki
+> 🌐 **Web Store** - Web apps bergaya untuk UMKM dan bisnis lokal
 
 ---
 
 ## 🌌 Quote Favorit
 
-> “Koding adalah sihir yang bisa mengubah dunia, satu baris dalam satu waktu.” ✨
+> "HAHAHAHAHAHAH” ✨
 
 ---
 
