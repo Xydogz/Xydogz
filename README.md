@@ -78,7 +78,7 @@ Lua        ▰▱▱▱▱▱▱▱▱▱  10%
     <img src="https://img.shields.io/badge/Discord-Awan%230123-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.roblox.com/users/1234567/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox-KILLERMAX-red?style=for-the-badge&logo=roblox" />
+    <img src="https://img.shields.io/badge/Roblox-Idexly-red?style=for-the-badge&logo=roblox" />
   </a>
 </p>
 
