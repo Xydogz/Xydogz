@@ -25,12 +25,12 @@
 
 ### 💻 Bahasa Pemrograman:
 ```markdown
-C++        ▰▰▰▰▰▰▱▱▱▱  60%  
-Java       ▰▰▰▰▰▰▰▰▱▱  80%  
-Python     ▰▰▰▰▰▰▰▰▰▱  90%  
-JavaScript ▰▰▰▰▰▰▰▱▱▱  70%  
-PHP        ▰▰▰▰▰▰▰▰▱▱  80%  
-Lua        ▰▰▰▰▰▰▰▱▱▱  70%
+C++        ▰▰▱▱▱▱▱▱▱▱  20%  
+Java       ▰▱▱▱▱▱▱▱▱▱  10%  
+Python     ▰▰▱▱▱▱▱▱▱▱  20%  
+JavaScript ▰▰▱▱▱▱▱▱▱▱  20%  
+PHP        ▰▰▰▰▰▰▱▱▱▱  60%  
+Lua        ▰▱▱▱▱▱▱▱▱▱  10%
 ```
 
 ---
@@ -45,7 +45,7 @@ Lua        ▰▰▰▰▰▰▰▱▱▱  70%
 ## 🧪 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&custom_title=🔥+Statistik+Awan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&custom_title=🔥+Statistik+Saya" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME-GITHUB&theme=tokyonight&hide_border=true" />
 </p>
