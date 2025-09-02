@@ -14,9 +14,9 @@
 
 ```
 🧠 Nama         : Awan
-🧑‍💻 Aktivitas    : Membuat game Roblox, web Laravel, dan seni digital
+🧑‍💻 Aktivitas    : Tidur
 🌍 Lokasi       : Jawa Timur
-🧙 Status       : Pelajar
+🧙 Status       : None
 ```
 
 ---
