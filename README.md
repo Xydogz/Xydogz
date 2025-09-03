@@ -10,7 +10,7 @@
 
 ---
 
-## 🎨 Tentang Saya
+## 🎨 About Me
 
 ```
 🧠 Nama         : Awan
