@@ -60,16 +60,16 @@ Lua        ▰▱▱▱▱▱▱▱▱▱  10%
 ## 📫 Sosial Media & Kontak
 
 <p align="center">
-  <a href="https://www.tiktok.com/@awancode" target="_blank">
+  <a href="https://www.tiktok.com/" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%231DA1F2.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://instagram.com/awancode" target="_blank">
+  <a href="https://instagram.com/ayswann_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/123456789012345678" target="_blank">
     <img src="https://img.shields.io/badge/Discord-ayswann-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.roblox.com/users/1234567/profile" target="_blank">
+  <a href="https://www.roblox.com/users/reaxelord" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-Reaxelord-red?style=for-the-badge&logo=roblox" />
   </a>
 </p>
