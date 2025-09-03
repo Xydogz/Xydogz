@@ -1,5 +1,5 @@
 
-<!-- KILLERMAX32 | Awan the Code Magician -->
+<!-- ABOUT ME -->
 <p align="center">
  hahahah
 </p>
@@ -15,7 +15,7 @@
 ```
 🧠 Nama         : Awan
 🧑‍💻 Aktivitas    : Tidur
-🌍 Lokasi       : Jawa Timur
+🌍 Lokasi       : Earth
 🧙 Status       : None
 ```
 
@@ -54,7 +54,7 @@ Lua        ▰▱▱▱▱▱▱▱▱▱  10%
 
 ## ✨ Projek Spesial
 > 🎮 **Grow a Soul** - game Roblox bertema pulau mengambang dan pengembangan jiwa  
-> 🧙‍♂️ **Mount Tanggul** - gane Roblox bertema mendaki
+> 🧙‍♂️ **Mount Tanggul** - game Roblox bertema mendaki
 > 🌐 **Web Store** - Web apps bergaya untuk UMKM dan bisnis lokal
 
 ---
