@@ -1,8 +1,6 @@
 
 <!-- ABOUT ME -->
-<p align="center">
- hahahah
-</p>
+<h1 YO! </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/0D75UbtDyzYunTj5NW/giphy.gif" width="350" alt="Magic Coding" />
@@ -52,16 +50,10 @@ Lua        ▰▱▱▱▱▱▱▱▱▱  10%
 
 ---
 
-## ✨ Projek Spesial
-> 🎮 **Grow a Soul** - game Roblox bertema pulau mengambang dan pengembangan jiwa  
-> 🧙‍♂️ **Mount Tanggul** - game Roblox bertema mendaki
-> 🌐 **Web Store** - Web apps bergaya untuk UMKM dan bisnis lokal
 
----
+## 🌌 Quote 
 
-## 🌌 Quote Favorit
-
-> "HAHAHAHAHAHAH” ✨
+> "Human clock is always in a rush, God's clock is always on time -el deargod” ✨
 
 ---
 
