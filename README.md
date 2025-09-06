@@ -11,10 +11,10 @@
 ## 🎨 About Me
 
 ```
-🧠 Nama         : Awan
+🧠 Nama         : Setiyawan 
 🧑‍💻 Aktivitas    : Tidur
-🌍 Lokasi       : Earth
-🧙 Status       : None
+🌍 Lokasi       : Unknown 
+🧙 Status       : Unknown 
 ```
 
 ---
